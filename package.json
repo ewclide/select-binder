@@ -1,0 +1,19 @@
+{
+  "name": "select-binder",
+  "version": "1.0.0",
+  "description": "select-binder",
+  "author": "ewclide",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
